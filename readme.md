@@ -30,8 +30,8 @@ CLOUDFLARE_IMAGES_ACCOUNT_ID=<account id>
 ```
 If you did not have our [Laravel-Cloudflare](https://github.com/food-ticket/laravel-cloudflare) wrapper yet you also need to add the following environment variables to your .env file:
 ```
-CLOUDFLARE_IMAGES_API_EMAIL=<API email>
-CLOUDFLARE_IMAGES_API_KEY=<API key>
+CLOUDFLARE_API_EMAIL=<API email>
+CLOUDFLARE_API_KEY=<API key>
 ```
 
 ## Getting started
